@@ -1,0 +1,6 @@
+venv37/
+.ipynb_checkpoints
+__pycache__
+miniconda3
+*.pyc
+activity_overrides.csv
